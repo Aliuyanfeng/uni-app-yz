@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text><u-icon vue-id="8dd740cc-1" name="photo" bind:__l="__l"></u-icon><u-image vue-id="8dd740cc-2" src="https://cdn.uviewui.com/uview/example/fade.jpg" fade="{{true}}" duration="450" bind:__l="__l"></u-image></view></view>
